@@ -15,4 +15,8 @@ Lastly, I am an American who is becoming Québécois and Canadian.
 
 **Let's Connect:**
 
-* Me and social media are in a new round of negotiations after a long pause. Check back and I will likely have a coherent social media profile.
+* Me and social media are in a new round of negotiations after a long pause. Check back and I will likely have a coherent social media plan.
+
+**Professional**
+
+My professional life is that of a software engineer. If it is any consolation, I too recoil when I see that the author is a software engineer.
