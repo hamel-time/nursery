@@ -1,29 +1,22 @@
-
-# Pausality
-# *Relational Satisfaction As A Fecund Revision to Process Metaphysics*
-
-Ryan Hamel  
-Montreal, QC  
-March 13, 2026  
-
-- [Pausality](#pausality)
-- [*Relational Satisfaction As A Fecund Revision to Process Metaphysics*](#relational-satisfaction-as-a-fecund-revision-to-process-metaphysics)
-    - [Abstract](#abstract)
-    - [Introduction](#introduction)
-    - [1.1 The Two Species of Process](#11-the-two-species-of-process)
-    - [1.2 Transition Requires a Receiver](#12-transition-requires-a-receiver)
-    - [1.3 Concrescence Cannot Close Unilaterally](#13-concrescence-cannot-close-unilaterally)
-    - [1.3.1 On Retrocausality And Public vs Private](#131-on-retrocausality-and-public-vs-private)
-    - [1.4 Empirical Consistency](#14-empirical-consistency)
-    - [1.5 God's Consequent Nature and the Primordial Nature](#15-gods-consequent-nature-and-the-primordial-nature)
-    - [1.6 Pausality and Measurement](#16-pausality-and-measurement)
-    - [1.7 Entanglement and the No-Signaling Constraint](#17-entanglement-and-the-no-signaling-constraint)
-    - [1.8 Wave-Particle Duality](#18-wave-particle-duality)
-    - [1.9 Relation to Existing Process Accounts of Measurement](#19-relation-to-existing-process-accounts-of-measurement)
-
-
-### Abstract
-Alfred North Whitehead's process philosophy provides the most developed relational ontology in the Western tradition, yet nearly a century of process thought have largely declined to use it for its most ambitious purpose: a unified account of the physical world. This paper, the first in a series of papers, takes up that project. This paper defines *pausality*: concrescence cannot reach satisfaction without a downstream occasion creating the relational demand for its completion. This provides a trigger mechanism for the transition from indeterminate to determinate, and with it, an ontological account of the measurement problem. I call this pausality — the term reflects how the process appears from within spacetime. From the occasion's own perspective, the more precise term is relational satisfaction. The terms will be used interchangeably.
+---
+title: |
+  Pausality:  
+  Relational Satisfaction As A Fecund Revision to Process Metaphysics
+author: 
+  - Ryan Hamel
+  - Montréal, QC
+date: "March 2026"
+abstract: |
+  Alfred North Whitehead's process philosophy provides the most developed relational ontology in the Western tradition, yet nearly a century of process thought have largely declined to use it for its most ambitious purpose: a unified account of the physical world. This paper, the first in a series of papers, takes up that project. This paper defines *pausality*: concrescence cannot reach satisfaction without a downstream occasion creating the relational demand for its completion. This provides a trigger mechanism for the transition from indeterminate to determinate, and with it, an ontological account of the measurement problem. I call this pausality — the term reflects how the process appears from within spacetime. From the occasion's own perspective, the more precise term is relational satisfaction. The terms will be used interchangeably.
+keywords: [Metaphysics, Philosophy of Science, Ontology, Process Philosophy]
+fontsize: 12pt
+geometry: "margin=1.25in"
+linestretch: 1.5
+fontfamily: libertine
+header-includes:
+  - \usepackage{abstract}
+  - \renewcommand{\abstractname}{Abstract}
+---
 
 ### Introduction
 Whitehead intended process philosophy to be a cosmology — a comprehensive account of the nature of reality that would encompass physics, biology, consciousness, and value within a single metaphysical scheme. *Process and Reality* is explicit about this ambition. Yet the subsequent tradition has largely pursued Whitehead's insights in theology, ecology, and philosophy of mind while leaving the physics on the table[^1]. This is understandable. Whitehead's own engagement with physics was shaped by the science of the 1920s. The measurement problem had not yet matured into its modern form. Bell's theorem was decades away. Whitehead had the metaphysical primitives but lacked the physical phenomena that would most clearly demonstrate their power.
@@ -33,15 +26,15 @@ This paper attempts to pick up where Whitehead's physics left off. I propose tha
 Process philosophy, if it is true, applies to itself. *Process and Reality* is not an eternal object — it is an occasion in a historical nexus. As Isabelle Stengers has argued[^2], the point is to think *with* Whitehead, not to treat his system as a closed text requiring only exegesis. The revisions proposed here are substantial: a relational account of satisfaction that revises Whitehead's privacy/publicity distinction, and a reconception of God's consequent nature that makes divine prehension structurally redundant. 
 
 A process philosophy that cannot be prehended and transformed by its successors has become the very thing it argues against — a static form, immune to novelty. This paper, and those that follow, proceeds in the spirit Whitehead himself described: the many become one, and are increased by one.
-### 1.1 The Two Species of Process
+## 1.1 The Two Species of Process
 
 Whitehead distinguishes two species of process: concrescence and transition. Concrescence is the internal becoming of an actual occasion — the process by which an occasion prehends its world, integrates what it receives, and arrives at a determinate satisfaction. Transition is the passage from one completed occasion into the data of another — the process by which a perished occasion becomes objective datum for subsequent occasions. These are not sequential phases where one is primary and the other derivative. Whitehead treats them as mutually necessary, co-fundamental aspects of how reality advances.
 
-### 1.2 Transition Requires a Receiver
+## 1.2 Transition Requires a Receiver
 
 Transition is not an occasion broadcasting into the void. It is the process by which a perished occasion becomes objective datum *for* a subsequent occasion. The "for" is constitutive, not incidental. In a relational ontology, a datum that is datum for nothing is not a datum. Without a prehending occasion, transition has no content. This is likely a controversial addition to Whitehead — though I argue that it follows directly from the relational character of his metaphysics.
 
-### 1.3 Concrescence Cannot Close Unilaterally
+## 1.3 Concrescence Cannot Close Unilaterally
 
 Here is the central claim. If transition is co-fundamental with concrescence, and transition requires a receiver, then an occasion that reaches satisfaction with no downstream occasion to prehend the result has undergone concrescence without transition — only half of process. The occasion is not suspended in some liminal state, nor is it waiting in ontological quarantine. It is fully underway: concrescing, prehending, integrating, exercising full autonomy over its internal process. What it cannot do is *complete*. Satisfaction — the moment of determinateness and perishing into objective datum — is contingent on there being a relational context for that completion. Concrescence has genuine duration, and that duration extends until a downstream occasion creates the demand for the result.
 
@@ -57,16 +50,16 @@ If time is derivative of process — if the passage of time just is the completi
 
 A further distinction is necessary. The downstream occasion's role is to trigger the completion of concrescence — to create the relational demand that allows satisfaction. Prehension, meanwhile, accumulates freely throughout the occasion's duration without constraint. The occasion is not waiting in an empty room. It is mid-process, gathering and integrating prehensions, with its internal richness growing. What it lacks is the condition for closure. The trigger and the prehensive accumulation are independent.
 
-### 1.3.1 On Retrocausality And Public vs Private
+## 1.3.1 On Retrocausality And Public vs Private
 An objection arises: in Whitehead's system, an occasion is private while concrescing and becomes public only at satisfaction. How then can a downstream occasion prehend an unsatisfied occasion? The answer requires revising the privacy/publicity distinction itself. If satisfaction is relational rather than unilateral, then the sharp boundary between private concrescence and public datum softens. An unsatisfied occasion is not hidden from the universe. It is mid-process, constituted by antecedent relations, accumulating prehensions — it is relationally present. A downstream occasion does not read the unsatisfied occasion's subjective content. The act of establishing relation is identical with the satisfaction that makes the content available. The relation does not access the process; it completes it. It needs only to prehend it — and prehension, in a relational ontology, is not retrieval of a completed datum but the act of entering into relation. The demand is not a signal from the future. It is the present act of a new occasion reaching toward what is relationally available.
 
 This revision to the concept of prehension — from the uptake of completed data to the act of entering into relation — is arguably more consequential than pausality itself, and will be developed fully in subsequent work.
 
-### 1.4 Empirical Consistency
+## 1.4 Empirical Consistency
 
 The distinction between a trigger that resolves and prehension that accumulates is not merely conceptual. In the famous Bell tests, a quantum state is created in superposition — the indeterminate state — and only reaches a determinate state upon measurement. A Bell test, however, could still be conceived of metaphysically as a 'frozen' collection of occasions that only 'unfreeze' when needed. A more complete example are spin echo experiments. In a spin echo experiment, a quantum system appears to lose coherence — its phase information seemingly dispersed — only for a refocusing pulse to recover the coherent state, demonstrating that the system was accumulating and maintaining internal structure throughout the period of apparent indeterminacy. Whatever metaphysics one brings to such experiments, any account of concrescence must be consistent with this kind of physical behaviour: systems that retain and build internal richness through apparent indeterminacy, completed by a downstream interaction. Had Whitehead had access to spin echo experiments alongside the Bell tests that were still decades away, the path from his relational ontology to demand-driven concrescence would have been considerably shorter.
 
-### 1.5 God's Consequent Nature and the Primordial Nature
+## 1.5 God's Consequent Nature and the Primordial Nature
 
 Whitehead introduced God's consequent nature in part to guarantee that no occasion perishes without being taken up — that the universe is, in a sense, lossless. Every occasion that perishes is prehended by God, preserving its contribution. This is elegant, but if concrescence itself cannot complete without a downstream prehension partner, the problem God's consequent nature was introduced to solve does not arise. There are no orphaned occasions to rescue. The relational structure of process prevents them from occurring in the first place. God's consequent nature performs other functions in Whitehead's system beyond preventing orphaned occasions — including the preservation of achieved value, the integration of incompatible experiences, and the ground of everlasting significance. These are substantial roles, and the full implications of removing God's consequent nature from them are addressed in subsequent papers in this series. The present paper addresses only the structural role most directly relevant to pausality.
 
@@ -74,13 +67,13 @@ I want to be explicit that this is a significant revision of Whitehead, not a st
 
 A question arises: if God no longer guarantees that every occasion has a downstream partner, what does? The answer is: nothing does. Some occasions may never find a downstream partner and may therefore concresce indefinitely — accumulating prehension without ever reaching satisfaction. This is not a defect of the framework. It is a consequence that Whitehead himself would recognize in a different register: an occasion that concresces without end, prehending the entirety of what the universe produces, is structurally identical to what Whitehead described as God's consequent nature. The difference is that in the present framework, this is not a unique divine entity but a possible condition of any occasion that happens never to be inherited forward. Permanent concrescence is not theologically guaranteed. It is relationally contingent.
 
-### 1.6 Pausality and Measurement
+## 1.6 Pausality and Measurement
 
 Whitehead describes concrescence as reaching "satisfaction" through its own internal process but does not specify what determines *when* satisfaction occurs. In standard quantum mechanics, an indeterminate system becomes determinate upon measurement, but the theory does not say what constitutes a measurement or why it has this effect. Pausality provides a unified answer: an occasion reaches satisfaction when a downstream occasion requires it as prehension. Determination is demand-driven. Measurement is not a special category of interaction, and observation is not metaphysically privileged. Any occasion that creates relational demand for the result of another occasion's concrescence triggers its completion. The measurement problem was generated by treating determination as something that happens *to* a system from outside, when it is in fact the natural completion of a relational process.
 
 The account offered here does not map cleanly onto any existing interpretation of quantum mechanics. It shares with Rovelli's relational quantum mechanics the conviction that determination is relational rather than absolute[^3], but differs in providing a specific trigger condition — relational demand from a downstream occasion — that relational QM leaves unspecified. It shares with causal realism the commitment to a real causal structure independent of observers. It is incompatible with interpretations that deny a unique outcome (many-worlds) or that treat quantum states as subjective (QBism). If pausality is correct, it constitutes a distinct interpretation: determination is neither collapse imposed by observation, nor branching into parallel outcomes, nor subjective updating of beliefs. It is the natural completion of a relational process.[^4]
 
-### 1.7 Entanglement and the No-Signaling Constraint
+## 1.7 Entanglement and the No-Signaling Constraint
 
 Pausality has a further implication that deserves separate treatment. The no-signaling theorem in quantum mechanics — the result that entanglement cannot be used for faster-than-light communication — is well established formally. The reduced density matrix of either subsystem is unchanged by a distant measurement; the math is clear. What the formalism does not provide is an ontological account of *why* the universe is structured this way. Pausality offers one.
 
@@ -100,7 +93,7 @@ The appearance of paradox is, once again, *time arrogance*: the assumption that 
 
 A note on causal ordering. The prehension structure has a definite sequence — one wing triggers satisfaction before the other. This is not a spatial or temporal fact but a causal one: the order in which occasions enter into relation is a feature of the relational structure itself. This constitutes a preferred frame of reference, but it is a frame that exists in the causal structure, not in spacetime. From within spacetime, this ordering is not recoverable — there is no measurement that could determine which wing triggered satisfaction first, because the distinction is not a spatiotemporal one. The framework is therefore compatible with Lorentz invariance. Relativity is not violated because relativity describes the structure of spacetime, and the preferred causal frame is not a spatiotemporal frame. It is the underlying relational ordering from which spacetime is derived. The physicist's concern — that any preferred frame must conflict with special relativity — assumes that all frames are spatiotemporal. In a framework where spacetime is emergent from causal structure rather than fundamental, the assumption does not hold.
 
-### 1.8 Wave-Particle Duality
+## 1.8 Wave-Particle Duality
 
 Pausality reframes wave-particle duality — not by explaining how something can be both wave and particle, but by showing that the distinction was never ontological in the first place.
 
@@ -112,7 +105,7 @@ Interference patterns follow from the same structure. In a double-slit experimen
 
 The wave and the particle were never two modes of a single entity. The wave is what an unsatisfied occasion looks like from a spacetime perspective — an open field of potential relations. The particle is what a satisfied occasion looks like — a determinate relational event. The mystery of wave-particle duality was generated by assuming that both descriptions referred to the same kind of thing. They do not. One describes potential, the other describes actuality. Pausality makes this distinction structural rather than interpretive.
 
-### 1.9 Relation to Existing Process Accounts of Measurement
+## 1.9 Relation to Existing Process Accounts of Measurement
 
 The attempt to connect Whitehead's metaphysics to quantum measurement is not new. The present proposal should be located within an existing conversation, and its specific contribution identified.
 
