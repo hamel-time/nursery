@@ -1,10 +1,26 @@
 
 # Pausality
-## Relational Satisfaction As A Fecund Revision to Process Metaphysics
+# *Relational Satisfaction As A Fecund Revision to Process Metaphysics*
 
 Ryan Hamel  
 Montreal, QC  
 March 13, 2026  
+
+- [Pausality](#pausality)
+- [*Relational Satisfaction As A Fecund Revision to Process Metaphysics*](#relational-satisfaction-as-a-fecund-revision-to-process-metaphysics)
+    - [Abstract](#abstract)
+    - [Introduction](#introduction)
+    - [1.1 The Two Species of Process](#11-the-two-species-of-process)
+    - [1.2 Transition Requires a Receiver](#12-transition-requires-a-receiver)
+    - [1.3 Concrescence Cannot Close Unilaterally](#13-concrescence-cannot-close-unilaterally)
+    - [1.3.1 On Retrocausality And Public vs Private](#131-on-retrocausality-and-public-vs-private)
+    - [1.4 Empirical Consistency](#14-empirical-consistency)
+    - [1.5 God's Consequent Nature and the Primordial Nature](#15-gods-consequent-nature-and-the-primordial-nature)
+    - [1.6 Pausality and Measurement](#16-pausality-and-measurement)
+    - [1.7 Entanglement and the No-Signaling Constraint](#17-entanglement-and-the-no-signaling-constraint)
+    - [1.8 Wave-Particle Duality](#18-wave-particle-duality)
+    - [1.9 Relation to Existing Process Accounts of Measurement](#19-relation-to-existing-process-accounts-of-measurement)
+
 
 ### Abstract
 Alfred North Whitehead's process philosophy provides the most developed relational ontology in the Western tradition, yet nearly a century of process thought have largely declined to use it for its most ambitious purpose: a unified account of the physical world. This paper, the first in a series of papers, takes up that project. This paper defines *pausality*: concrescence cannot reach satisfaction without a downstream occasion creating the relational demand for its completion. This provides a trigger mechanism for the transition from indeterminate to determinate, and with it, an ontological account of the measurement problem. I call this pausality — the term reflects how the process appears from within spacetime. From the occasion's own perspective, the more precise term is relational satisfaction. The terms will be used interchangeably.
